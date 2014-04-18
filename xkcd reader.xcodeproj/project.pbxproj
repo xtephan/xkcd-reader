@@ -398,6 +398,7 @@
 				GCC_PREFIX_HEADER = "xkcd reader/xkcd reader-Prefix.pch";
 				INFOPLIST_FILE = "xkcd reader/xkcd reader-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 2;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -411,6 +412,7 @@
 				GCC_PREFIX_HEADER = "xkcd reader/xkcd reader-Prefix.pch";
 				INFOPLIST_FILE = "xkcd reader/xkcd reader-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 2;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
